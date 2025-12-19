@@ -42,7 +42,7 @@ const experiences: ExperienceItem[] = [
     quote: "Gestión real: De organizar eventos a dirigir un bar.",
     highlights: [
       "Gestión integral de un bar: Responsabilidad operativa (sala/cocina), proveedores y procesos.",
-      "Organización de 4 eventos deportivos (Pádel) con crecimiento de 60 a +100 asistentes.",
+      "Organización de 4 eventos deportivos con crecimiento de 60 a +100 asistentes.",
       "Creación inicial de agencia orientada a soluciones prácticas. Experiencia en ideación y validación de mercado.",
       "Trabajo en equipo (3-4 personas) basado en metodologías ágiles.",
     ],
@@ -70,7 +70,7 @@ const experiences: ExperienceItem[] = [
     iconBg: "bg-primary/20",
     title: "Tudetic (Empresa de venta online)",
     subtitle: "IA Aplicada",
-    period: "Proyecto",
+    period: "Experiencia laboral",
     quote: "Automatización real con resultados medibles.",
     highlights: [
       "Modificación de imágenes en bloque automáticamente con Python.",
