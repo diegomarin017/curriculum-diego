@@ -65,7 +65,7 @@ const experiences: ExperienceItem[] = [
   },
   {
     id: "tudetic",
-    icon: Robot,
+    icon: Brain,
     iconColor: "text-primary",
     iconBg: "bg-primary/20",
     title: "Tudetic (Empresa de venta online)",
