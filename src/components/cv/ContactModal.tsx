@@ -23,7 +23,7 @@ const ContactModal = ({ isOpen, onClose }: ContactModalProps) => {
             <div className="relative">
               <div className="w-28 h-28 rounded-full border-2 border-primary/50 overflow-hidden">
                 <img
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQEBhUkIRkWvIg/profile-displayphoto-shrink_400_400/B4DZk.uuwTHsAg-/0/1757694062251?e=1767830400&v=beta&t=dCY0C5XOs0NV1P9GEKiShIXBIL-MYHENPEZhwT6DEJ4"
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQEBhUkIRkWvIg/profile-displayphoto-shrink_200_200/B4DZk.uuwTHsAY-/0/1757694062251?e=1773273600&v=beta&t=kmwXW4TiMUhXIMuBELtWBuyiu1oo2LnibgnvIA8q07c"
                   alt="Diego Marín Falcón"
                   className="w-full h-full object-cover"
                 />
