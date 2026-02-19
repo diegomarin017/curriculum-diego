@@ -85,10 +85,9 @@ const experiences: ExperienceItem[] = [
     title: "Telepizza",
     subtitle: "Repartidor / Operativo",
     period: "Experiencia Laboral",
-    quote: "Eficiencia operativa y cumplimiento de objetivos.",
+    quote: "Experiencia trabajando como repartidor.",
     highlights: [
-      "Saber aguantar la presión en momentos de alta presión.",
-      "Cumplimiento de objetivos diarios y responsabilidad.",
+      "Experiencia trabajando como repartidor.",
     ],
   },
 ];
