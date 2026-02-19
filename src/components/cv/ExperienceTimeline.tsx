@@ -94,7 +94,7 @@ const experiences: ExperienceItem[] = [
 ];
 
 const ExperienceTimeline = () => {
-  const [expandedId, setExpandedId] = useState<string | null>("ia");
+  const [expandedId, setExpandedId] = useState<string | null>(null);
 
   return (
     <section className="py-20 px-4 border-t border-border/30">
