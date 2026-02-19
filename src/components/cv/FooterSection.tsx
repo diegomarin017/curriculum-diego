@@ -20,9 +20,6 @@ const FooterSection = () => {
             Contactar Ahora
           </button>
           
-          <p className="mt-12 text-sm text-muted-foreground">
-            Diseñado con mentalidad de producto. 2025.
-          </p>
         </div>
       </section>
       <ContactModal isOpen={isContactOpen} onClose={() => setIsContactOpen(false)} />
